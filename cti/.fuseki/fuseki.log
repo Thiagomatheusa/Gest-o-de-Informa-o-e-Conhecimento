@@ -1,0 +1,9 @@
+[2026-05-14 04:40:34] Server     INFO  Apache Jena Fuseki 4.6.1
+[2026-05-14 04:40:34] Server     INFO  Configuration file: ../.fuseki.ttl
+[2026-05-14 04:40:34] Server     INFO  Path = /cti
+[2026-05-14 04:40:34] Server     INFO  System
+[2026-05-14 04:40:34] Server     INFO    Memory: 4,0 GiB
+[2026-05-14 04:40:34] Server     INFO    Java:   21.0.8
+[2026-05-14 04:40:34] Server     INFO    OS:     Windows 10 10.0 amd64
+[2026-05-14 04:40:34] Server     INFO    PID:    10000
+Failed to bind to 0.0.0.0/0.0.0.0:3030
